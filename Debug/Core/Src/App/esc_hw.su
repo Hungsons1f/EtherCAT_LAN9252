@@ -1,0 +1,10 @@
+esc_hw.c:62:13:lan9252_write_32	24	static
+esc_hw.c:83:17:lan9252_read_32	24	static
+esc_hw.c:108:13:ESC_read_csr	24	static
+esc_hw.c:125:13:ESC_write_csr	24	static
+esc_hw.c:141:13:ESC_read_pram	40	static
+esc_hw.c:209:13:ESC_write_pram	40	static
+esc_hw.c:285:6:ESC_read	24	static
+esc_hw.c:340:6:ESC_write	24	static
+esc_hw.c:392:6:ESC_reset	4	static
+esc_hw.c:397:6:ESC_init	24	static

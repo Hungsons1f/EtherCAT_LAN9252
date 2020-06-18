@@ -1,0 +1,13 @@
+esc_hw.c: #include gpio.h , #include spi.h, #define O_RDWR 1
+
+f4
+f6: cs
+f7: sck
+f8: miso
+f9: mosi
+
+l4
+a0: cs
+a1: sck
+a6: miso
+a7: mosi

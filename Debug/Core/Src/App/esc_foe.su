@@ -1,0 +1,12 @@
+esc_foe.c:57:5:FOE_fopen	32	static
+esc_foe.c:140:10:FOE_fwrite	32	static
+esc_foe.c:173:10:FOE_fclose	16	static
+esc_foe.c:189:6:FOE_init	8	static
+esc_foe.c:203:6:FOE_abort	24	static
+esc_foe.c:269:5:FOE_send_ack	16	static
+esc_foe.c:344:6:FOE_read	8	static
+esc_foe.c:386:6:FOE_write	24	static
+esc_foe.c:428:6:FOE_data	32	static
+esc_foe.c:526:6:FOE_error	8	static
+esc_foe.c:541:6:FOE_config	16	static
+esc_foe.c:552:6:ESC_foeprocess	16	static

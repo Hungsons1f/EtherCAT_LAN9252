@@ -1,0 +1,4 @@
+spi.c:14:6:spi_select	16	static
+spi.c:19:6:spi_unselect	16	static
+spi.c:24:6:write	16	static
+spi.c:29:6:read	16	static
